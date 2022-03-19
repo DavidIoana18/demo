@@ -6,7 +6,7 @@ public class Main {
         //test
         //second
         //lalala
-        System.out.println("100");
+        System.out.println("2");
         //9
     }
 }
